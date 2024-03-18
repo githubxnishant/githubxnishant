@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate in **Open Source**
 
-- 👨‍💻 All of my reach-out links are available at [https://linktr.ee/linkxnishant](https://linktr.ee/linkxnishant)
+- 👨‍💻 All of my project links are available at [GitHub](https://github.com/githubxnishant)
 
 - 📫 How to reach me **mailxnishant@gmail.com**
 
