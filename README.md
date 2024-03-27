@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate in **Open Source**
+- 👯 I’m looking to collaborate in **Open Source** and **Hackathons**
 
 - 👨‍💻 All of my project links are available at [GitHub](https://github.com/githubxnishant)
 
 - 📫 How to reach me **mailxnishant@gmail.com**
+
+- 📄 Here is the access to my [Resume](https://drive.google.com/file/d/1q6bFWDDdg-Yw0_8YVrDrFqQcC9DVNhlu/view?usp=drivesdk) 
 
 - 🌐 Socially available here : [Linktree](https://linktr.ee/linkxnishant) 
 
