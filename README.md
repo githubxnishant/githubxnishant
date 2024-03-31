@@ -40,4 +40,7 @@
 
 ###
 
+
+### Here's a snake eating my contributions: ###
+#### P.S- He might die from hunger: ####
 ![snake gif](https://github.com/githubxnishant/githubxnishant/blob/output/github-contribution-grid-snake.svg)
