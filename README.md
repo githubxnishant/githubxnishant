@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Nishant Chauhan</h1>
 <h3 align="center">Web Developer | Student | Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=githubxnishant&label=Profile%20views&color=0e75b6&style=flat" alt="githubxnishant" /> &nbsp <a href="https://github.com/githubxnishant?tab=followers"><img src="https://img.shields.io/github/followers/githubxnishant?label=Followers&style=social" alt="GitHub Badge"></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=githubxnishant&label=Profile%20views&color=0e75b6&style=flat" alt="githubxnishant" /> &nbsp <a href="https://github.com/githubxnishant?tab=followers"><img src="https://img.shields.io/github/followers/githubxnishant?label=Followers&style=social" alt="GitHub Badge"></a> 
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status: At Gym">
-<img src="https://img.shields.io/badge/Field-AI%2FML%20%7C%20Web%20Dev-blue" alt="Field: Web Dev | Data Science">
+<img src="https://img.shields.io/badge/Field-AI%2FML%20%7C%20Web%20Dev-blue" alt="Field: Web Dev | Data Science"> </p>
 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
