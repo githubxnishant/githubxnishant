@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate in **Open Source** and **Hackathons.**
 
-- 📄 Here is the access to my **[Resume](https://drive.google.com/file/d/1q6bFWDDdg-Yw0_8YVrDrFqQcC9DVNhlu/view?usp=drivesdk).** 
+<!-- - 📄 Here is the access to my **[Resume](https://drive.google.com/file/d/1q6bFWDDdg-Yw0_8YVrDrFqQcC9DVNhlu/view?usp=drivesdk).** -->
 
 - 🌐 Socially available here : **[Linktree](https://linktr.ee/linkxnishant).**
 
