@@ -18,7 +18,7 @@
 
 <!-- - 📄 Here is the access to my **[Resume](https://drive.google.com/file/d/1q6bFWDDdg-Yw0_8YVrDrFqQcC9DVNhlu/view?usp=drivesdk).** -->
 
-- 🌐 Socially available here : **[Linktree](https://linktr.ee/linkxnishant).**
+- 🌐 Socially available here : **[Linktree](https://linktr.ee/nishant.chauhan).**
 
 - 💀 Fun Fact - **I used to create content beside coding!!**
 
