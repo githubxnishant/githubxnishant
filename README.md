@@ -9,7 +9,7 @@
 <a href="https://github.com/githubxnishant?tab=followers"><img src="https://img.shields.io/github/followers/githubxnishant?label=Followers&style=social" alt="GitHub Badge"></a> &nbsp 
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status: At Gym"> &nbsp
 <img src="https://img.shields.io/badge/Field-%20Web%20Dev%20%7C%20Data%20Science%20-blue" alt="Field: Web Dev | Data Science"> &nbsp
-<img src="http://img.shields.io/badge/Code%20Time-69%20hrs%2069%20mins-blue"> </p>
+<img src="http://img.shields.io/badge/Code%20Time-69%20hrs-blue"> </p>
 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
