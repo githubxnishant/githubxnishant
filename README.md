@@ -20,7 +20,7 @@
 
 - 🌐 Socially available here : **[Linktree](https://linktr.ee/nishant.chauhan).**
 
-- 💀 Fun Fact - **I used to create content beside coding!!**
+- ♟️When I'm not coding, I play **Chess!!**
 
 ###
 
