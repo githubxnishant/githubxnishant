@@ -67,7 +67,7 @@
 
   <div align="center">
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com?user=githubxnishant&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=190&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /> -->
-    <img src="https://streak-stats.demolab.com/?user=githubxnishant&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+<!--     <img src="https://streak-stats.demolab.com/?user=githubxnishant&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" /> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubxnishant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=githubxnishant&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
   </div>
