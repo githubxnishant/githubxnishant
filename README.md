@@ -2,8 +2,8 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Nishant Chauhan</h1>
-<h3 align="center">Web Developer | Student | Programmer</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35">, I'm Nishant Chauhan</h1>
+<h3 align="center">Software Engineer 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubxnishant&label=Profile%20views&color=0e75b6&style=flat" alt="githubxnishant" /> &nbsp 
 <a href="https://github.com/githubxnishant?tab=followers"><img src="https://img.shields.io/github/followers/githubxnishant?label=Followers&style=social" alt="GitHub Badge"></a> &nbsp 
@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/Field-%20Web%20Dev%20%7C%20Data%20Science%20-blue" alt="Field: Web Dev | Data Science"> &nbsp
 <img src="http://img.shields.io/badge/Code%20Time-69%20hrs-blue"> </p>
 
+
+<img align="right" height="130em" src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=false&qColor=%23fff&aColor=%23ff00ff" alt="Random Dev Joke" />
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -22,14 +24,16 @@
 
 - ♟️When I'm not coding, I play **Chess!!**
 
+
 ###
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif"  />
 
 ###
 
-<h3 align="left">Connect with me:</h3> 
+<h3 align="left">Connect with me<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> </h3> 
 <div align="left">
+<a href="https://www.nishantchauhan.me/" target="blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white" alt="portfolio logo" /></a>
 <a href="https://www.linkedin.com/in/nishantxchauhan" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 <a href="https://www.instagram.com/chauhanishant_" target="blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 <a href="https://twitter.com/chauhanishant_" target="blank"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
@@ -38,7 +42,7 @@
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" /> Languages and Tools</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
@@ -57,10 +61,22 @@
 </p>
 
 
-<!--  <h2>My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
+<h2>My GitHub Stats<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /></h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=githubxnishant&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=githubxnishant&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubxnishant&&theme=dracula&hide_border=false" alt="githubxnishant" />
+<!--  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubxnishant&&theme=dracula&hide_border=false" alt="githubxnishant" /> -->
+
+  <div align="center">
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com?user=githubxnishant&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=190&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /> -->
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubxnishant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=githubxnishant&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
+  </div>
+  
+  <div align="center">
+    <img width="850em" src="https://github-readme-activity-graph.vercel.app/graph?username=githubxnishant&theme=tokyo-night&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
+  </div>
 </div>
--->
+
+<!-- <div align="center">
+  <img height="130em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</div> -->
+
