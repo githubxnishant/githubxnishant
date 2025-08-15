@@ -3,7 +3,7 @@
 ###
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35">, I'm Nishant Chauhan</h1>
-<h3 align="center">Software Engineer 🌟</h3>
+<h3 align="center">Software Engineer <img height='30em' src='https://github.com/user-attachments/assets/c11c3e94-1ff6-4359-86df-2f0b72535046' /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubxnishant&label=Profile%20views&color=0e75b6&style=flat" alt="githubxnishant" /> &nbsp 
 <a href="https://github.com/githubxnishant?tab=followers"><img src="https://img.shields.io/github/followers/githubxnishant?label=Followers&style=social" alt="GitHub Badge"></a> &nbsp 
