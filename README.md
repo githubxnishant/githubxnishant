@@ -27,8 +27,8 @@
 
 ###
 
-
-<img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230"> 
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif"  />
+<!-- <img align='right' src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" width="230"> -->
 
 ###
 
@@ -44,7 +44,7 @@
 ###
 
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" /> Languages and Tools</h3>
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -63,7 +63,7 @@
 
 
 <h3>My GitHub Stats<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" /></h2>
-<table align="left">
+<table>
     <tr>
         <td rowspan="3" align="center">
           <a href="https://github.com/githubxnishant#gh-light-mode-only">
