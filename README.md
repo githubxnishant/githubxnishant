@@ -76,7 +76,7 @@
         <td align="center"><a href="https://github.com/githubxnishant#gh-light-mode-only">
           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=githubxnishant&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
           <a href="https://github.com/githubxnishant#gh-dark-mode-only">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=githubxnishant&show_icons=true&theme=tokyonight&count_private=false&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9#gh-dark-mode-only" alt="My GitHub Stats"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=githubxnishant&show_icons=true&theme=tokyonight&count_private=false&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9#gh-dark-mode-only" alt="My GitHub Stats"/>
           </a>
         </td>
     </tr>
