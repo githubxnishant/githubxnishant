@@ -22,7 +22,9 @@
     <img align="right" src="https://readme-jokes.vercel.app/api?theme=default&bgColor=%23ffffff&qColor=%23000000&aColor=%23005588&textColor=%23000000&codeColor=%23d6336c&borderColor=%23e4e4e4" alt="Random Dev Joke" />
 </a>
 <a href="https://github.com/githubxnishant#gh-dark-mode-only">
-    <img align="right" src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=false&qColor=%23fff&aColor=%23ff00ff#gh-dark-mode-only" alt="Random Dev Joke" />
+    <img align="right" 
+     src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=%230D1117&hideBorder=false&qColor=%23ffffff&aColor=%23ff00ff#gh-dark-mode-only" 
+     alt="Random Dev Joke" />
 </a>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
@@ -98,7 +100,7 @@
             <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=githubxnishant&theme=transparent&ring=5194f0&dates=5194f0&currStreakLabel=2f80ed&fire=2f80ed&stroke=d5e5fa&hide_border=true"/>
           </a>
           <a href="https://github.com/githubxnishant#gh-dark-mode-only">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=githubxnishant&theme=transparent&hide_border=true&sideNums=5559CE&currStreakNum=5559CE&dates=8B5CF6&ring=1E2242&fire=5559CE&currStreakLabel=5559CE&sideLabels=5559CE&stroke=1E2242" alt="GitHub Streak" />
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=githubxnishant&theme=tokyonight-duo&background=0D1117&hide_border=true&sideNums=5559CE&currStreakNum=5559CE&dates=8B5CF6&ring=1E2242&fire=5559CE&currStreakLabel=5559CE&sideLabels=5559CE&stroke=1E2242" alt="GitHub Streak" />
           </a>
         </td>
     </tr>      
