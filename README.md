@@ -11,8 +11,12 @@
 <img src="https://img.shields.io/badge/Field-%20Web%20Dev%20%7C%20Data%20Science%20-blue" alt="Field: Web Dev | Data Science"> &nbsp
 <img src="http://img.shields.io/badge/Code%20Time-69%20hrs-blue"> </p>
 
-
-<img align="right" height="130em" src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=false&qColor=%23fff&aColor=%23ff00ff" alt="Random Dev Joke" />
+<a href="https://github.com/githubxnishant#gh-light-mode-only">
+    <img align="right" src="https://readme-jokes.vercel.app/api?theme=default&bgColor=%23ffffff&qColor=%23000000&aColor=%23005588&textColor=%23000000&codeColor=%23d6336c&borderColor=%23e4e4e4" alt="Random Dev Joke" />
+</a>
+<a href="https://github.com/githubxnishant#gh-dark-mode-only">
+    <img align="right" src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=false&qColor=%23fff&aColor=%23ff00ff#gh-dark-mode-only" alt="Random Dev Joke" />
+</a>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -67,14 +71,14 @@
     <tr>
         <td rowspan="3" align="center">
           <a href="https://github.com/githubxnishant#gh-light-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubxnishant&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubxnishant&theme=default&hide_border=true&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
           </a>
           <a href="https://github.com/githubxnishant#gh-dark-mode-only">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubxnishant&theme=tokyonight&&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/>
           </a>
         </td>
         <td align="center"><a href="https://github.com/githubxnishant#gh-light-mode-only">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=githubxnishant&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=githubxnishant&show_icons=true&theme=default&hide_border=true&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/>
           <a href="https://github.com/githubxnishant#gh-dark-mode-only">
             <img src="https://github-readme-stats.vercel.app/api?username=githubxnishant&show_icons=true&theme=tokyonight&count_private=false&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9#gh-dark-mode-only" alt="My GitHub Stats"/>
           </a>
@@ -84,7 +88,7 @@
     <tr style="background-color:transparent">
         <td align="center">
           <a href="https://github.com/githubxnishant#gh-light-mode-only">
-            <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=githubxnishant&theme=default"/>
+            <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=githubxnishant&theme=transparent&ring=5194f0&dates=5194f0&currStreakLabel=2f80ed&fire=2f80ed&stroke=d5e5fa&hide_border=true"/>
           </a>
           <a href="https://github.com/githubxnishant#gh-dark-mode-only">
             <img src="https://github-readme-streak-stats.herokuapp.com?user=githubxnishant&theme=transparent&hide_border=true&sideNums=5559CE&currStreakNum=5559CE&dates=8B5CF6&ring=1E2242&fire=5559CE&currStreakLabel=5559CE&sideLabels=5559CE&stroke=1E2242" alt="GitHub Streak" />
@@ -95,9 +99,10 @@
     <tr>
         <td colspan="2" align="center">
           <a href="https://github.com/githubxnishant#gh-light-mode-only">
-            <img src="https://raw.githubusercontent.com/githubxnishant/githubxnishant/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/>
+<!--             <img src="https://github.com/githubxnishant#gh-light-mode-only" alt="My GitHub Stats"/> -->
+              <img src="https://github-readme-activity-graph.vercel.app/graph?username=githubxnishant&theme=default&bg_color=ffffff&color=000000&line=2f80ed&point=5194f0&area=false&hide_border=true" alt="Contribution Graph" />
           </a>
-          <a href="https://github.com/githubxnishant#gh-dark-mode-only">
+          <a href="https://github.com/githubxnishant#gh-dark-mode-only" alt="My GitHub Stats">
             <img src="https://github-readme-activity-graph.vercel.app/graph?username=githubxnishant&theme=tokyo-night&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
           </a>
        </td>
