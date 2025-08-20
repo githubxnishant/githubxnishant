@@ -86,7 +86,7 @@
           <a href="https://github.com/githubxnishant#gh-light-mode-only">
             <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=githubxnishant&theme=default"/>
           </a>
-          <a href="https://git.io/streak-stats">
+          <a href="https://github.com/githubxnishant#gh-dark-mode-only">
             <img src="https://github-readme-streak-stats.herokuapp.com?user=githubxnishant&theme=transparent&hide_border=true&sideNums=5559CE&currStreakNum=5559CE&dates=8B5CF6&ring=1E2242&fire=5559CE&currStreakLabel=5559CE&sideLabels=5559CE&stroke=1E2242" alt="GitHub Streak" />
           </a>
         </td>
