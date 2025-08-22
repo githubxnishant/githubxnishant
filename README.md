@@ -23,7 +23,7 @@
 </a>
 <a href="https://github.com/githubxnishant#gh-dark-mode-only">
     <img align="right" 
-     src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=%230D1117&hideBorder=false&qColor=%23ffffff&aColor=%23ff00ff#gh-dark-mode-only" 
+     src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=%230D1117&qColor=%23ffffff&aColor=%23ff00ff#gh-dark-mode-only" 
      alt="Random Dev Joke" />
 </a>
 
